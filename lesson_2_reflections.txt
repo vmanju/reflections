@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A .git directory is created containing metadata about dir content.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows you to review changes or split up one big change into multiple commits.
